@@ -3,75 +3,21 @@
 
     <item
         is-multidex="false"
-        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
-        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_f6b75b89580f796ef16cfa17af7c9ce6eaef04d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
-        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-core-1.8.4_626976e31b0aacaecda09a3c9448f366180e3080.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
-        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_33f7b1b2db9682ba00a0eb1c861ee85c5c29960b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
-        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c0e2d502be750aaaf3ffd2c82fe75de60c159454.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
-        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.2.0_1f0c654d2b9b3bd0fe34c1ebaefeff65c12b1214.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_f76e246b17accfb2dd5ae0722619feea6c98c153.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cc0ee293f8dab779970fa089fbb974a44d9c19d2.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
         <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.0_abdc98fefe8dc8623c6f86a587fdd79dd701d713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_f6b75b89580f796ef16cfa17af7c9ce6eaef04d0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -102,12 +48,48 @@
     </item>
     <item
         is-multidex="false"
+        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/me.dm7.barcodescanner/core/1.8.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af8d42f1f020e936b8cd9f5cb6c75993194895a3">
+        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-core-1.8.4_626976e31b0aacaecda09a3c9448f366180e3080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.0_33f7b1b2db9682ba00a0eb1c861ee85c5c29960b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
         <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_5c3c772f94a318a96c9378eb40051650e1ab8eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c0e2d502be750aaaf3ffd2c82fe75de60c159454.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/3.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4ce6303165f20650850673bd5891fbcca80caae">
+        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.journeyapps-zxing-android-embedded-3.2.0_1f0c654d2b9b3bd0fe34c1ebaefeff65c12b1214.jar" />
     </item>
     <item
         is-multidex="false"
@@ -144,6 +126,24 @@
         revision="25.0.0"
         sha1="68ef1daf85c69fca8fddf7bbb947fc51cc9f8ca3">
         <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/me.dm7.barcodescanner-zxing-1.8.4_3ca44d5374353522f60235513fd6a1171856bd9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_f76e246b17accfb2dd5ae0722619feea6c98c153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/kamilek/StudioProjects/MytestApplicationQR/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_cc0ee293f8dab779970fa089fbb974a44d9c19d2.jar" />
     </item>
     <item
         is-multidex="false"
