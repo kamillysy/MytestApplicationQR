@@ -41,7 +41,7 @@ public class QRreader extends Activity implements ZXingScannerView.ResultHandler
 
     @Override
     public void handleResult(Result result) {
-        text = result.toString();
+        text = result.getText();
     }
 
     public String getText() {

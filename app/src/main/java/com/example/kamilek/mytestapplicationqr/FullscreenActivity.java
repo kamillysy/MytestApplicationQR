@@ -1,5 +1,6 @@
 package com.example.kamilek.mytestapplicationqr;
 
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -16,8 +17,8 @@ import com.example.kamilek.mytestapplicationqr.pair.QRreader;
  */
 public class FullscreenActivity extends AppCompatActivity {
     private EditText editText;
-
-
+    private QRreader qRreader;
+    private QRgenerator qRgenerator;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -25,26 +26,30 @@ public class FullscreenActivity extends AppCompatActivity {
         setContentView(R.layout.activity_fullscreen);
 
         editText= (EditText) findViewById(R.id.editText);
-
+        qRreader =new QRreader();
+        qRgenerator=new QRgenerator();
     }
 
     public void read(View view) {
 
-        QRreader qr=new QRreader();
-        qr.scan(view);
-        String text=qr.getText();
+        qRreader.scan(view);
+        AlertDialog.Builder builder=new AlertDialog.Builder(this);
+        String text=qRreader.getText();
+        builder.setTitle("Readed");
+        builder.setMessage(text);
+        AlertDialog alertDialog=builder.create();
+        alertDialog.show();
         editText.setText(text, TextView.BufferType.EDITABLE);
-
     }
 
     public void generate(View view) {
-        QRgenerator qr=new QRgenerator();
+
         ImageView img= (ImageView) findViewById(R.id.imageView);
         String text= String.valueOf(editText.getText());
-        qr.setTextToQr(text);
-        qr.setBitmapSize(300,300);
-        qr.generateQrBitmap();
-        img.setImageBitmap(qr.getBitmap());
+        qRgenerator.setTextToQr(text);
+        qRgenerator.setBitmapSize(300,300);
+        qRgenerator.generateQrBitmap();
+        img.setImageBitmap(qRgenerator.getBitmap());
 
     }
 }
